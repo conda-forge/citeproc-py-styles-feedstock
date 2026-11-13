@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: 0.1.5
+  version: "0.2.0"
 
 package:
   name: citeproc-py-styles
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/citeproc-py-styles/citeproc_py_styles-${{ version }}.tar.gz
-  sha256: 20a82e22b4eb814039449ba83be8c142a385e6f6f17f5b70b1b33b3fd1f8e619
+  sha256: 36d5ecc05647b026f0ec028dd206bb187f1c4189ded6b7f369fa4c9ddfa5148e
 
 build:
   number: 0
